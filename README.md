@@ -1,0 +1,2 @@
+# golang-techniques
+useful?
